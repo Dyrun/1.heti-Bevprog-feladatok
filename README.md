@@ -1,1 +1,1 @@
-# Bevprog-feladatok
+# 1.heti-Bevprog-feladatok
